@@ -2,7 +2,7 @@
 
 # Site settings
 title: ToyChurros.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "ToyChurros is Character & Toy design studio in South Korea."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
@@ -40,11 +40,11 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - ClusterCenter 4F KnowledgeFactory, Hanyangdaehak-ro 55,
+    - Sangrok-gu, Ansan-si, Gyeonggi-do,
+    - South Korea.
+email: ido0114@naver.com
+tel: +82 10-4259-0987
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -68,7 +68,7 @@ members:
       - title: envelope #use for email address
         url: mailto:hellow16@naver.com
       - title: facebook
-        url: https://www.facebook.com/hyemin.kim
+        url: https://www.facebook.com/hyemin.kim.969
   - name: Jo Dukeray
     position: Cartoonist
     text: Social satire character 'PIK' designer.
@@ -90,17 +90,19 @@ members:
     
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
-    img: client01.png
+  - name: LINE
+    img: client_line.png
   - name: Code is Poetry
     img: client02.png
   - name: Vimeo
     img: client03.png
   - name: VimeoPro
     img: client04.png
+  - name: VimeoPro
+    img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "ToyChurros is Character & Toy design studio in South Korea."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
